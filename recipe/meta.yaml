@@ -8,7 +8,7 @@ source:
   sha256: 18b3d8ec019e01a906981d524a8f1d0cc067e39f53494f1ce0a8c94e07801340
 
 build:
-  number: 0
+  number: 1
   skip: true  # [win]
 
 requirements:
